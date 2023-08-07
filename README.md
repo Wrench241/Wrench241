@@ -1,5 +1,5 @@
 
-Sou um desenvolvedor Java experiente, com habilidades em:
+Sou um desenvolvedor Java experiente, com habilidades em: ☕
 
 Java 8, 11, 17 
 

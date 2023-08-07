@@ -1,7 +1,8 @@
 
 Sou um desenvolvedor Java experiente, com habilidades em:
 
-Java 8, 11, 17 ☕
+Java 8, 11, 17 
+
 Padrões: MVC, Microservices, Repository
 Frameworks: Spring, Spring Boot, Hibernate, JPA
 Testes: JUnit, Spring Boot

@@ -5,7 +5,7 @@ Java 8, 11, 17
 
 Padrões: MVC, Microservices, Repository
 
-Frameworks: Spring, Spring Boot, Hibernate, JPA
+Frameworks: Spring, Spring Boot, Hibernate, JPA, JavaFX
 
 Testes: JUnit, Spring Boot
 

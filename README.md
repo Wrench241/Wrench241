@@ -9,9 +9,9 @@ Frameworks: Spring, Spring Boot, Hibernate, JPA
 
 Testes: JUnit, Spring Boot
 
-Event Driven: Kafka, Amazon SQS
+Event Driven: Kafka
 
-Docker, AWS
+Docker
 
 Bancos de Dados: H2, MySQL, Postgresql, MongoDB
 

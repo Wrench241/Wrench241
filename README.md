@@ -1,6 +1,6 @@
 
 hi i am Java man ☕
 
-🍃 Tecnlogy: Java / angular / spring boot
+🍃 Tecnlogy: Java / Angular / Spring boot / Php
 
 Welcome to my code house.

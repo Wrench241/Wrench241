@@ -9,7 +9,7 @@ Welcome to my code house.
 
 <div>
   <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="60"/>
-  <img src="https://icons8.com/icon/90519/spring-boot" width="60"/>
+  <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" height="60" width="60"/>
   <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="60"/>
   <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" width="60"/>
 </div>
@@ -26,15 +26,6 @@ Welcome to my code house.
 ### Contacts
 
 <div>
-  <a href="https://instragram.com/bedev.club">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@bedev.club">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/mateussantana">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/otavio241">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

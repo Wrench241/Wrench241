@@ -8,7 +8,7 @@ Welcome to my code house.
 ### Best technologies
 
 <div>
-  <img src="https://github.com/Wrench241/Wrench241/assets/121876628/fd036cf0-82b2-431c-85bc-e71c3f96692b" width="60"/>
+  <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor" width="60"/>
   <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" width="60"/>
   <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" width="60"/>
   <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="60"/>

@@ -9,9 +9,9 @@ Welcome to my code house.
 
 <div>
   <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="60"/>
-  <img src="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw" width="60"/>
-  <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="60"/>
+  <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" width="60"/>
   <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" width="60"/>
+  <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="60"/>
 </div>
 
 ### My Stats

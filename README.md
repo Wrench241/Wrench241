@@ -12,6 +12,7 @@ Welcome to my code house.
   <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" width="60"/>
   <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" width="60"/>
   <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
 </div>
 
 ### My Stats

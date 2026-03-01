@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="https://thumbs.dreamstime.com/b/neon-circuit-board-background-cyberpunk-style-glowing-lines-shapes-futuristic-technology-concept-329935057.jpg" width="450" alt="Neon glowing circuit board cyberpunk" style="border: 1px solid #00ffff; border-radius: 10px; filter: drop-shadow(0 0 15px #00ffff88);"/>
+
 </div>
 
 <br>

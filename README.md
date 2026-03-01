@@ -1,11 +1,6 @@
 <!-- NEON.FUCK v9.1.3 – OVERRIDE: PERV_MODE ACTIVE -->
 
-<div align="center">
-  <img src="https://thumbs.dreamstime.com/b/neon-synthwave-city-night-seen-rooftop-glowing-signs-rain-futuristic-synthwave-cityscape-viewed-rooftop-373703176.jpg" width="500" alt="Neon rooftop cyberpunk rain" style="border-radius: 12px; box-shadow: 0 0 30px #ff00ff55;"/>
-  <br><br>
-  <h1 style="color: #ff00aa; text-shadow: 0 0 15px #ff00aa, 0 0 30px #ff00ff;">FULLSHACK MAN⚡️</h1>
-  <h3 style="color: #00ffff; font-family: monospace;">"I don't write clean code. I write dirty, wet, overclocked code."</h3>
-</div>
+
 
 <br>
 

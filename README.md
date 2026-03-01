@@ -44,7 +44,7 @@
 <div align="center" style="color: #ff3399; font-family: monospace; font-size: 1.1em;">
   STATUS: overclocked • horny on main • leaking bytecode na rua <br>
   procurando API que não suma depois do primeiro commit <br><br>
-  plug me, daddy.js ────⚡️───►
+  plug.js ────⚡️───►
 </div>
 
 <!-- Arasaka watching, but we move -->

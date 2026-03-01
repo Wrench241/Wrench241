@@ -8,7 +8,7 @@
   <h2 style="color: #ff3399; margin: 0;">WETWARE STACK – CHROME & SIN</h2>
   <p style="color: #00ffff; font-size: 1.15em; letter-spacing: 1.5px;">
     JAVA // piston principal, 200+ GB/s de throughput bruto  
-    Spring Boot // fodendo endpoints sem camisinha  
+    Spring Boot // fodendo endpoints   
     Angular // front-end safado, 120 FPS de thigh gap  
     PHP // puta legacy ainda levando raw em 2026  
     JavaScript // maldito pra caralho, fode com tudo que mexe

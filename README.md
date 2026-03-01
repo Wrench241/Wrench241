@@ -30,11 +30,6 @@
 
 <div align="center" style="background: #0f001a; padding: 20px; border-radius: 12px; border: 2px solid #ff00ff;">
   <h3 style="color: #ff00aa;">STATS – BLACK MARKET DROP</h3>
-  <a href="https://github.com/Wrench241">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrench241&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0f001a&title_color=ff00ff&text_color=00ffff&icon_color=ff3399"/>
-    <br><br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wrench241&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f001a&title_color=ff00aa&icon_color=00ffff&text_color=cyan&border_radius=12"/>
-  </a>
 </div>
 
 <br>

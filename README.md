@@ -24,7 +24,7 @@
 <br>
 
 <div align="center" style="background: #0f001a; padding: 20px; border-radius: 12px; border: 2px solid #ff00ff;">
-  <h3 style="color: #ff00aa;">STATS – BLACK MARKET DROP</h3>
+  <h3 style="color: #ff00aa;">STATS – BLACK MARKET</h3>
 </div>
 
 <br>

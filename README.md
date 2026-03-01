@@ -16,7 +16,7 @@
     Spring Boot // fodendo endpoints sem camisinha  
     Angular // front-end safado, 120 FPS de thigh gap  
     PHP // puta legacy ainda levando raw em 2026  
-    JavaScript // promíscuo pra caralho, fode com tudo que mexe
+    JavaScript // maldito pra caralho, fode com tudo que mexe
   </p>
 </div>
 

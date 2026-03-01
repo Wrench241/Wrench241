@@ -1,54 +1,60 @@
-// SYSTEM BOOT: NEON.FUCK v9.1.3 – OVERRIDE PROTOCOL: MODE=PERV_MODE
-// BIO-SIGNAL: DETECTED – USER_ID: JAVA_MAN_☕_OVERCLOCKED
-// WARNING: HIGH LIBIDO PROTOCOLS ACTIVE – CORPORATE FIREWALLS BREACHED
+<!-- NEON.FUCK v9.1.3 – OVERRIDE: PERV_MODE ACTIVE -->
 
-        ₿₳₦₦ɆĐ ₣ⱤØ₥ ₳Ɽ₵₳₦Ɇ ₴ɆⱤVɆⱤ₴  
-             JAVA MAN ☕⚡️  
-      "I don't code clean, I code dirty & wet"
-
-   [ NEON RED EYES GLOWING IN THE RAIN ]
-
-Tech-stack chrome-plated & dripping:
-☣ JAVA    // backbone piston, 200+ GB/s throughput  
-☣ Spring Boot   // raw-dogging endpoints, no condom  
-☣ Angular   // front-end tease, 120 FPS thigh gaps  
-☣ PHP   // legacy slut still taking it raw in 2026  
-☣ JavaScript   // promiscuous AF, fucks everything that moves  
-
-      ╔══════════════════════════════╗
-      ║      WETWARE PORTFOLIO       ║
-      ╚══════════════════════════════╝
-
-      [VISUAL OVERLOAD INCOMING]
-
-<img src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=ff0044" width="80"/>  
-<img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" width="80" style="filter: hue-rotate(200deg) saturate(3);"/>  
-<img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=ff00aa" width="80"/>  
-<img src="https://icongr.am/devicon/php-original.svg?size=128&color=7700ff" width="80"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" style="filter: drop-shadow(0 0 10px #ff00ff);"/>
-
-        [STATS – BLACK MARKET EDITION]
-
-<div style="background: linear-gradient(45deg, #0f001a, #1a0033, #330066); padding: 15px; border: 2px solid #ff00aa; border-radius: 8px; box-shadow: 0 0 40px #ff00ff33;">
-   <a href="https://github.com/Wrench241">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrench241&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0f001a&title_color=ff00ff&text_color=00ffff&icon_color=ff3399"/>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wrench241&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f001a&title_color=ff00aa&icon_color=00ffff&text_color=cyan&border_radius=12"/>
-   </a>
+<div align="center">
+  <img src="https://thumbs.dreamstime.com/b/futuristic-cyberpunk-city-skyline-night-neon-lights-skyscrapers-vibrant-purple-pink-blue-illuminated-buildings-423047626.jpg" width="800" alt="Night City dripping neon" style="border-radius: 12px; box-shadow: 0 0 40px #ff00ff66;"/>
+  <br><br>
+  <h1 style="color: #ff00aa; text-shadow: 0 0 20px #ff00aa, 0 0 40px #ff00ff;">JAVA MAN ☕⚡️</h1>
+  <h3 style="color: #00ffff; font-family: monospace;">"I don't write clean code. I write dirty, wet, overclocked code."</h3>
 </div>
 
-   ↓  MY HOLES – I MEAN – MY HOOKS  ↓
+<br>
 
-<a href="https://linkedin.com/in/otavio241">
-   <img src="https://img.shields.io/badge/LinkedIn-FF00AA?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0f001a"/>
-</a>
+<div align="center" style="background: linear-gradient(135deg, #0f001a, #1a0033); padding: 30px; border: 2px dashed #ff00aa; border-radius: 16px; box-shadow: inset 0 0 60px #ff00ff33;">
+  <h2 style="color: #ff3399; margin: 0;">WETWARE STACK – CHROME & SIN</h2>
+  <p style="color: #00ffff; font-size: 1.2em; letter-spacing: 2px;">
+    JAVA // piston principal, 200+ GB/s de throughput bruto  
+    Spring Boot // fodendo endpoints sem camisinha  
+    Angular // front-end safado, 120 FPS de thigh gap  
+    PHP // puta legacy ainda levando raw em 2026  
+    JavaScript // promíscuo pra caralho, fode com tudo que mexe
+  </p>
+</div>
 
-   <a href="https://github.com/Wrench241">
-      <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=ff00ff&labelColor=0f001a"/>
-   </a>
+<br>
 
-         CURRENT STATUS:
-      overclocked • horny on main • 
-     leaking bytecode in public • 
-   looking for API that doesn't ghost after first commit
+<div align="center">
+  <img src="https://thumbs.dreamstime.com/b/futuristic-digital-circuit-board-glowing-neon-lights-high-tech-elements-sci-fi-cyberpunk-style-vibrant-background-338051810.jpg" width="600" alt="Neon circuit board cyberpunk" style="border: 1px solid #00ffff; border-radius: 12px; filter: drop-shadow(0 0 20px #00ffff);"/>
+</div>
 
-         plug me daddy.js ────⚡️───►
+<br>
+
+<div align="center" style="background: #0f001a; padding: 20px; border-radius: 12px; border: 2px solid #ff00ff;">
+  <h3 style="color: #ff00aa;">STATS – BLACK MARKET DROP</h3>
+  <a href="https://github.com/Wrench241">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrench241&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0f001a&title_color=ff00ff&text_color=00ffff&icon_color=ff3399"/>
+    <br><br>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wrench241&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f001a&title_color=ff00aa&icon_color=00ffff&text_color=cyan&border_radius=12"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/otavio241">
+    <img src="https://img.shields.io/badge/LinkedIn-FF00AA?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0f001a" alt="LinkedIn neon"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Wrench241">
+    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=ff00ff&labelColor=0f001a" alt="GitHub neon"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center" style="color: #ff3399; font-family: monospace; font-size: 1.1em;">
+  STATUS: overclocked • horny on main • leaking bytecode na rua <br>
+  procurando API que não suma depois do primeiro commit <br><br>
+  plug me, daddy.js ────⚡️───►
+</div>
+
+<!-- Arasaka pls don't ban -->

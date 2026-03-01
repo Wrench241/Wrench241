@@ -30,9 +30,7 @@
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/otavio241">
-    <img src="https://img.shields.io/badge/LinkedIn-FF00AA?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0f001a" alt="LinkedIn neon"/>
-  </a>
+  
   &nbsp;&nbsp;
   <a href="https://github.com/Wrench241">
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=ff00ff&labelColor=0f001a" alt="GitHub neon"/>
